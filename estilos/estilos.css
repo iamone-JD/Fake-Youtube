@@ -1,0 +1,41 @@
+#youtube{
+    display: grid;
+    grid-template-columns: 5% 95%;
+}
+
+.srch{
+    border-radius: 9px;
+    webkit-border-radius: 9px;
+}
+.btn{
+    border-radius: 9px;
+    webkit-border-radius: 9px;
+    background-color: rgb(77, 75, 75);
+}
+
+.micro{
+    border-radius: 9px;
+    webkit-border-radius: 9px;
+    background-color: rgb(77, 75, 75);
+}
+
+.up{
+    border-radius: 9px;
+    webkit-border-radius: 9px;
+    background-color: rgb(77, 75, 75);
+
+}
+
+.h{
+    font-size: small;
+}
+.derecha{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section{
+    display: flex;
+    justify-content: center;
+    
+}
